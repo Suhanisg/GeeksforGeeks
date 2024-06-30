@@ -12,7 +12,7 @@ public class OccurenceOfAnIntegerInALinkedList {
                 if(temp.data == key)count++;
                 temp = temp.next;
             }
-            return count;
+            return uacount;
         }
     }
 }

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2346c6df-4189-4fbc-b2e9-07e749c2b539" name="Changes" comment="SortedInsertForCircularLinkedList">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MergeKSortedLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/OccurenceOfAnIntegerInALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/OccurenceOfAnIntegerInALinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Suhanisg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Suhanisg/GeeksforGeeks.git&quot;,
+    &quot;accountId&quot;: &quot;d36135de-8e1a-4cbe-9d57-3119ee0e7dd3&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cMKTwcyWMJkZewLlYpNxebIZo8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2346c6df-4189-4fbc-b2e9-07e749c2b539" name="Changes" comment="" />
+      <created>1707916020030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707916020030</updated>
+      <workItem from="1707916021202" duration="458000" />
+      <workItem from="1707916604554" duration="628000" />
+      <workItem from="1708003825197" duration="211000" />
+      <workItem from="1708183466666" duration="173000" />
+      <workItem from="1708278831745" duration="155000" />
+      <workItem from="1708354187033" duration="144000" />
+      <workItem from="1708363257612" duration="12000" />
+      <workItem from="1708451644035" duration="137000" />
+      <workItem from="1708538211637" duration="200000" />
+      <workItem from="1708625935218" duration="135000" />
+      <workItem from="1708678171791" duration="1190000" />
+      <workItem from="1708706605808" duration="7000" />
+      <workItem from="1708706974706" duration="71000" />
+      <workItem from="1708789524270" duration="15000" />
+      <workItem from="1708789555901" duration="187000" />
+      <workItem from="1708884556717" duration="124000" />
+      <workItem from="1708959371229" duration="87000" />
+      <workItem from="1709057763054" duration="201000" />
+      <workItem from="1709143774889" duration="129000" />
+      <workItem from="1709312146164" duration="150000" />
+      <workItem from="1709404098697" duration="141000" />
+      <workItem from="1709486589061" duration="122000" />
+      <workItem from="1709576114540" duration="205000" />
+      <workItem from="1709658429271" duration="146000" />
+      <workItem from="1709737636150" duration="85000" />
+      <workItem from="1709800230105" duration="123000" />
+      <workItem from="1709916868825" duration="59000" />
+      <workItem from="1709998703781" duration="25000" />
+      <workItem from="1709998837457" duration="65000" />
+      <workItem from="1710089489956" duration="126000" />
+      <workItem from="1710164576853" duration="89000" />
+      <workItem from="1710262600638" duration="218000" />
+      <workItem from="1710344582777" duration="73000" />
+      <workItem from="1710440023394" duration="103000" />
+      <workItem from="1710605788125" duration="119000" />
+      <workItem from="1710693444585" duration="98000" />
+      <workItem from="1710784688511" duration="352000" />
+      <workItem from="1710870777537" duration="238000" />
+      <workItem from="1710956187551" duration="62000" />
+      <workItem from="1711040982200" duration="64000" />
+      <workItem from="1711086970339" duration="11000" />
+      <workItem from="1711087155342" duration="110000" />
+      <workItem from="1711201205286" duration="132000" />
+      <workItem from="1711298058579" duration="86000" />
+      <workItem from="1711298268393" duration="6000" />
+      <workItem from="1711357552380" duration="129000" />
+      <workItem from="1711807190247" duration="75000" />
+      <workItem from="1711901085797" duration="75000" />
+      <workItem from="1711979243467" duration="70000" />
+      <workItem from="1712080056073" duration="108000" />
+      <workItem from="1712165800873" duration="385000" />
+      <workItem from="1712338926615" duration="228000" />
+      <workItem from="1712386543725" duration="163000" />
+      <workItem from="1712508715220" duration="153000" />
+      <workItem from="1712592932359" duration="23000" />
+      <workItem from="1712598871225" duration="232000" />
+      <workItem from="1712685509072" duration="94000" />
+      <workItem from="1712761250174" duration="228000" />
+      <workItem from="1712841773183" duration="79000" />
+      <workItem from="1713029108621" duration="116000" />
+      <workItem from="1713116065326" duration="115000" />
+      <workItem from="1713198823621" duration="230000" />
+      <workItem from="1713289723844" duration="92000" />
+      <workItem from="1713377416506" duration="193000" />
+      <workItem from="1713464516868" duration="90000" />
+      <workItem from="1713550746953" duration="132000" />
+      <workItem from="1713632076504" duration="175000" />
+      <workItem from="1713721391227" duration="120000" />
+      <workItem from="1713721645178" duration="661000" />
+      <workItem from="1713807833079" duration="117000" />
+      <workItem from="1713896182308" duration="242000" />
+      <workItem from="1713975758439" duration="201000" />
+      <workItem from="1714006727180" duration="164000" />
+      <workItem from="1714148314328" duration="120000" />
+      <workItem from="1714320807356" duration="34000" />
+      <workItem from="1714320957847" duration="390000" />
+      <workItem from="1714414791955" duration="12000" />
+      <workItem from="1714415041875" duration="70000" />
+      <workItem from="1714473641954" duration="43000" />
+      <workItem from="1714473780515" duration="64000" />
+      <workItem from="1714584773794" duration="16000" />
+      <workItem from="1714584887843" duration="73000" />
+      <workItem from="1714669075140" duration="88000" />
+      <workItem from="1714669333702" duration="1845000" />
+      <workItem from="1714712011457" duration="336000" />
+      <workItem from="1714845211510" duration="83000" />
+      <workItem from="1714932040561" duration="123000" />
+      <workItem from="1715015773383" duration="126000" />
+      <workItem from="1715104556913" duration="20000" />
+      <workItem from="1715104678912" duration="138000" />
+      <workItem from="1715190590768" duration="206000" />
+      <workItem from="1715277733081" duration="70000" />
+      <workItem from="1715440277966" duration="15000" />
+      <workItem from="1715440499468" duration="54000" />
+      <workItem from="1715536257262" duration="30000" />
+      <workItem from="1715536403032" duration="53000" />
+      <workItem from="1715609323599" duration="80000" />
+      <workItem from="1715746303901" duration="670000" />
+      <workItem from="1715875182280" duration="195000" />
+      <workItem from="1715964644465" duration="80000" />
+      <workItem from="1716048589913" duration="92000" />
+      <workItem from="1716138046605" duration="69000" />
+      <workItem from="1716485163677" duration="12000" />
+      <workItem from="1716485244888" duration="80000" />
+      <workItem from="1716566044693" duration="28000" />
+      <workItem from="1716566420467" duration="113000" />
+      <workItem from="1716658072520" duration="31000" />
+      <workItem from="1716658216759" duration="58000" />
+      <workItem from="1716745265892" duration="104000" />
+      <workItem from="1716822305179" duration="103000" />
+      <workItem from="1716915767743" duration="15000" />
+      <workItem from="1716915864293" duration="79000" />
+      <workItem from="1716986437037" duration="30000" />
+      <workItem from="1716986621186" duration="137000" />
+      <workItem from="1717087640922" duration="212000" />
+      <workItem from="1717136574153" duration="99000" />
+      <workItem from="1717250045803" duration="112000" />
+      <workItem from="1717250297974" duration="52000" />
+      <workItem from="1717348408570" duration="231000" />
+      <workItem from="1717431889439" duration="81000" />
+      <workItem from="1717476143837" duration="14000" />
+      <workItem from="1717476283357" duration="58000" />
+      <workItem from="1717569023494" duration="27000" />
+      <workItem from="1717569160530" duration="104000" />
+      <workItem from="1717596533157" duration="237000" />
+      <workItem from="1717937448709" duration="59000" />
+      <workItem from="1718029202479" duration="1171000" />
+      <workItem from="1718100330423" duration="65000" />
+      <workItem from="1718294058695" duration="768000" />
+      <workItem from="1718376363707" duration="155000" />
+      <workItem from="1718471105543" duration="265000" />
+      <workItem from="1718555809663" duration="78000" />
+      <workItem from="1718645908004" duration="155000" />
+      <workItem from="1718701039810" duration="351000" />
+      <workItem from="1718816034761" duration="127000" />
+      <workItem from="1718902861937" duration="132000" />
+      <workItem from="1719040918853" duration="109000" />
+      <workItem from="1719159969414" duration="315000" />
+      <workItem from="1719334064859" duration="153000" />
+      <workItem from="1719419814820" duration="101000" />
+      <workItem from="1719680933666" duration="124000" />
+      <workItem from="1719758316696" duration="403000" />
+    </task>
+    <task id="LOCAL-00065" summary="ModifyLinkedListy">
+      <option name="closed" value="true" />
+      <created>1714415103497</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1714415103497</updated>
+    </task>
+    <task id="LOCAL-00066" summary="SecondMostRepeatedStringInASequence">
+      <option name="closed" value="true" />
+      <created>1714473835297</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1714473835297</updated>
+    </task>
+    <task id="LOCAL-00067" summary="PrimeList">
+      <option name="closed" value="true" />
+      <created>1714584947580</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1714584947580</updated>
+    </task>
+    <task id="LOCAL-00068" summary="CompareTwoLinkedLists">
+      <option name="closed" value="true" />
+      <created>1714669405435</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1714669405435</updated>
+    </task>
+    <task id="LOCAL-00069" summary="SetBits">
+      <option name="closed" value="true" />
+      <created>1714712217948</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1714712217948</updated>
+    </task>
+    <task id="LOCAL-00070" summary="CoinChange">
+      <option name="closed" value="true" />
+      <created>1714845279852</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1714845279852</updated>
+    </task>
+    <task id="LOCAL-00071" summary="RemoveEveryKthNode">
+      <option name="closed" value="true" />
+      <created>1714932103838</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1714932103838</updated>
+    </task>
+    <task id="LOCAL-00072" summary="ArraylistOperation">
+      <option name="closed" value="true" />
+      <created>1715015873389</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1715015873389</updated>
+    </task>
+    <task id="LOCAL-00073" summary="SubarrayRangeWithGivenSum">
+      <option name="closed" value="true" />
+      <created>1715104758231</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1715104758231</updated>
+    </task>
+    <task id="LOCAL-00074" summary="LinkedListInZigZagFashion">
+      <option name="closed" value="true" />
+      <created>1715190791039</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1715190791039</updated>
+    </task>
+    <task id="LOCAL-00075" summary="CombinationSumiii">
+      <option name="closed" value="true" />
+      <created>1715277792590</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1715277792590</updated>
+    </task>
+    <task id="LOCAL-00076" summary="BusConductor">
+      <option name="closed" value="true" />
+      <created>1715440541664</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1715440541664</updated>
+    </task>
+    <task id="LOCAL-00077" summary="TomAndJerry">
+      <option name="closed" value="true" />
+      <created>1715536446760</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1715536446760</updated>
+    </task>
+    <task id="LOCAL-00078" summary="FirstAndLastOccurrences">
+      <option name="closed" value="true" />
+      <created>1715609387509</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1715609387509</updated>
+    </task>
+    <task id="LOCAL-00079" summary="PermutationsOfAGivenString">
+      <option name="closed" value="true" />
+      <created>1715746384801</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1715746384801</updated>
+    </task>
+    <task id="LOCAL-00080" summary="PythagoreanTriplet">
+      <option name="closed" value="true" />
+      <created>1715875267989</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1715875267990</updated>
+    </task>
+    <task id="LOCAL-00081" summary="ReverseBothParts">
+      <option name="closed" value="true" />
+      <created>1715964697599</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1715964697599</updated>
+    </task>
+    <task id="LOCAL-00082" summary="MoveAllZeroesToEndOfArray">
+      <option name="closed" value="true" />
+      <created>1716048671330</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048671338</updated>
+    </task>
+    <task id="LOCAL-00083" summary="BuyStockWithTransactionFee">
+      <option name="closed" value="true" />
+      <created>1716138105823</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1716138105824</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Anagram">
+      <option name="closed" value="true" />
+      <created>1716485312465</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1716485312465</updated>
+    </task>
+    <task id="LOCAL-00085" summary="QueueReversal">
+      <option name="closed" value="true" />
+      <created>1716566497400</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1716566497400</updated>
+    </task>
+    <task id="LOCAL-00086" summary="RopeCutting">
+      <option name="closed" value="true" />
+      <created>1716658262601</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1716658262601</updated>
+    </task>
+    <task id="LOCAL-00087" summary="zeroSumSubarrays">
+      <option name="closed" value="true" />
+      <created>1716745356250</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1716745356250</updated>
+    </task>
+    <task id="LOCAL-00088" summary="MaximumValueInABitonicArray">
+      <option name="closed" value="true" />
+      <created>1716822390579</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1716822390580</updated>
+    </task>
+    <task id="LOCAL-00089" summary="PangramChecking">
+      <option name="closed" value="true" />
+      <created>1716915930346</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1716915930346</updated>
+    </task>
+    <task id="LOCAL-00090" summary="MaxCircularSubarraySum">
+      <option name="closed" value="true" />
+      <created>1716986738125</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1716986738125</updated>
+    </task>
+    <task id="LOCAL-00091" summary="MedianOf2SortedArraysOfDifferentSizes">
+      <option name="closed" value="true" />
+      <created>1717087845147</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1717087845147</updated>
+    </task>
+    <task id="LOCAL-00092" summary="StockSpanProblem">
+      <option name="closed" value="true" />
+      <created>1717136659242</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1717136659242</updated>
+    </task>
+    <task id="LOCAL-00093" summary="MinimumSwaps">
+      <option name="closed" value="true" />
+      <created>1717250337649</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1717250337649</updated>
+    </task>
+    <task id="LOCAL-00094" summary="UnequalArrays">
+      <option name="closed" value="true" />
+      <created>1717348586945</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1717348586945</updated>
+    </task>
+    <task id="LOCAL-00095" summary="CountTheReversals">
+      <option name="closed" value="true" />
+      <created>1717431943206</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1717431943206</updated>
+    </task>
+    <task id="LOCAL-00096" summary="CountPossibleTriangles">
+      <option name="closed" value="true" />
+      <created>1717476327141</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1717476327141</updated>
+    </task>
+    <task id="LOCAL-00097" summary="FrequencyOfArrayElements">
+      <option name="closed" value="true" />
+      <created>1717569242415</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1717569242415</updated>
+    </task>
+    <task id="LOCAL-00098" summary="rowWithMax">
+      <option name="closed" value="true" />
+      <created>1717596676785</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1717596676785</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Rotation">
+      <option name="closed" value="true" />
+      <created>1717937492324</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1717937492325</updated>
+    </task>
+    <task id="LOCAL-00100" summary="ArithmeticNumber">
+      <option name="closed" value="true" />
+      <created>1718030783808</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1718030783808</updated>
+    </task>
+    <task id="LOCAL-00101" summary="IntersectionOfTwoArrays">
+      <option name="closed" value="true" />
+      <created>1718100381766</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1718100381766</updated>
+    </task>
+    <task id="LOCAL-00102" summary="TaxiBooking">
+      <option name="closed" value="true" />
+      <created>1718294790585</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1718294790585</updated>
+    </task>
+    <task id="LOCAL-00103" summary="LongestSubArrayWithSum">
+      <option name="closed" value="true" />
+      <created>1718376481290</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1718376481290</updated>
+    </task>
+    <task id="LOCAL-00104" summary="LongestDistinctCharactersInString">
+      <option name="closed" value="true" />
+      <created>1718471290603</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1718471290603</updated>
+    </task>
+    <task id="LOCAL-00105" summary="ImplementTwoStacksInAnArray">
+      <option name="closed" value="true" />
+      <created>1718555869411</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1718555869411</updated>
+    </task>
+    <task id="LOCAL-00106" summary="FindAllPairsWhoseSumIsX">
+      <option name="closed" value="true" />
+      <created>1718646047881</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1718646047881</updated>
+    </task>
+    <task id="LOCAL-00107" summary="AddTwoNumbersRepresentedByLinkedLists">
+      <option name="closed" value="true" />
+      <created>1718816152699</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1718816152699</updated>
+    </task>
+    <task id="LOCAL-00108" summary="RemoveDuplicates">
+      <option name="closed" value="true" />
+      <created>1718902983568</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1718902983568</updated>
+    </task>
+    <task id="LOCAL-00109" summary="DeleteANodeInSingleLinkedList">
+      <option name="closed" value="true" />
+      <created>1719040997807</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1719040997808</updated>
+    </task>
+    <task id="LOCAL-00110" summary="ThreeWayPartitioning">
+      <option name="closed" value="true" />
+      <created>1719160256442</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160256442</updated>
+    </task>
+    <task id="LOCAL-00111" summary="IntersectionPointInYShappedLinkedLists">
+      <option name="closed" value="true" />
+      <created>1719334203865</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1719334203865</updated>
+    </task>
+    <task id="LOCAL-00112" summary="UnionOfTtwoSortedArrays">
+      <option name="closed" value="true" />
+      <created>1719419881997</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1719419881997</updated>
+    </task>
+    <task id="LOCAL-00113" summary="SortedInsertForCircularLinkedList">
+      <option name="closed" value="true" />
+      <created>1719681044841</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1719681044842</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PangramChecking" />
+    <MESSAGE value="MaxCircularSubarraySum" />
+    <MESSAGE value="MedianOf2SortedArraysOfDifferentSizes" />
+    <MESSAGE value="StockSpanProblem" />
+    <MESSAGE value="MinimumSwaps" />
+    <MESSAGE value="UnequalArrays" />
+    <MESSAGE value="CountTheReversals" />
+    <MESSAGE value="CountPossibleTriangles" />
+    <MESSAGE value="FrequencyOfArrayElements" />
+    <MESSAGE value="rowWithMax" />
+    <MESSAGE value="Rotation" />
+    <MESSAGE value="ArithmeticNumber" />
+    <MESSAGE value="IntersectionOfTwoArrays" />
+    <MESSAGE value="TaxiBooking" />
+    <MESSAGE value="LongestSubArrayWithSum" />
+    <MESSAGE value="LongestDistinctCharactersInString" />
+    <MESSAGE value="ImplementTwoStacksInAnArray" />
+    <MESSAGE value="FindAllPairsWhoseSumIsX" />
+    <MESSAGE value="AddTwoNumbersRepresentedByLinkedLists" />
+    <MESSAGE value="RemoveDuplicates" />
+    <MESSAGE value="DeleteANodeInSingleLinkedList" />
+    <MESSAGE value="ThreeWayPartitioning" />
+    <MESSAGE value="IntersectionPointInYShappedLinkedLists" />
+    <MESSAGE value="UnionOfTtwoSortedArrays" />
+    <MESSAGE value="SortedInsertForCircularLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortedInsertForCircularLinkedList" />
+  </component>
+</project>
