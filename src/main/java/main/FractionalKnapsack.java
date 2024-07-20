@@ -22,6 +22,6 @@ public class FractionalKnapsack {
             }
             return res;
 
-        }
+        }.
     }
 }

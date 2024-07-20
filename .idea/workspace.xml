@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2346c6df-4189-4fbc-b2e9-07e749c2b539" name="Changes" comment="SortedInsertForCircularLinkedList">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/MergeKSortedLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/OccurenceOfAnIntegerInALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/OccurenceOfAnIntegerInALinkedList.java" afterDir="false" />
+    <list default="true" id="2346c6df-4189-4fbc-b2e9-07e749c2b539" name="Changes" comment="SSubsetSumProblem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/FractionalKnapsack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,143 +223,22 @@
       <workItem from="1719334064859" duration="153000" />
       <workItem from="1719419814820" duration="101000" />
       <workItem from="1719680933666" duration="124000" />
-      <workItem from="1719758316696" duration="403000" />
-    </task>
-    <task id="LOCAL-00065" summary="ModifyLinkedListy">
-      <option name="closed" value="true" />
-      <created>1714415103497</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1714415103497</updated>
-    </task>
-    <task id="LOCAL-00066" summary="SecondMostRepeatedStringInASequence">
-      <option name="closed" value="true" />
-      <created>1714473835297</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1714473835297</updated>
-    </task>
-    <task id="LOCAL-00067" summary="PrimeList">
-      <option name="closed" value="true" />
-      <created>1714584947580</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1714584947580</updated>
-    </task>
-    <task id="LOCAL-00068" summary="CompareTwoLinkedLists">
-      <option name="closed" value="true" />
-      <created>1714669405435</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1714669405435</updated>
-    </task>
-    <task id="LOCAL-00069" summary="SetBits">
-      <option name="closed" value="true" />
-      <created>1714712217948</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1714712217948</updated>
-    </task>
-    <task id="LOCAL-00070" summary="CoinChange">
-      <option name="closed" value="true" />
-      <created>1714845279852</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1714845279852</updated>
-    </task>
-    <task id="LOCAL-00071" summary="RemoveEveryKthNode">
-      <option name="closed" value="true" />
-      <created>1714932103838</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1714932103838</updated>
-    </task>
-    <task id="LOCAL-00072" summary="ArraylistOperation">
-      <option name="closed" value="true" />
-      <created>1715015873389</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1715015873389</updated>
-    </task>
-    <task id="LOCAL-00073" summary="SubarrayRangeWithGivenSum">
-      <option name="closed" value="true" />
-      <created>1715104758231</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1715104758231</updated>
-    </task>
-    <task id="LOCAL-00074" summary="LinkedListInZigZagFashion">
-      <option name="closed" value="true" />
-      <created>1715190791039</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1715190791039</updated>
-    </task>
-    <task id="LOCAL-00075" summary="CombinationSumiii">
-      <option name="closed" value="true" />
-      <created>1715277792590</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1715277792590</updated>
-    </task>
-    <task id="LOCAL-00076" summary="BusConductor">
-      <option name="closed" value="true" />
-      <created>1715440541664</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1715440541664</updated>
-    </task>
-    <task id="LOCAL-00077" summary="TomAndJerry">
-      <option name="closed" value="true" />
-      <created>1715536446760</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1715536446760</updated>
-    </task>
-    <task id="LOCAL-00078" summary="FirstAndLastOccurrences">
-      <option name="closed" value="true" />
-      <created>1715609387509</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1715609387509</updated>
-    </task>
-    <task id="LOCAL-00079" summary="PermutationsOfAGivenString">
-      <option name="closed" value="true" />
-      <created>1715746384801</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1715746384801</updated>
-    </task>
-    <task id="LOCAL-00080" summary="PythagoreanTriplet">
-      <option name="closed" value="true" />
-      <created>1715875267989</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1715875267990</updated>
-    </task>
-    <task id="LOCAL-00081" summary="ReverseBothParts">
-      <option name="closed" value="true" />
-      <created>1715964697599</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1715964697599</updated>
+      <workItem from="1719758316696" duration="564000" />
+      <workItem from="1719840358440" duration="221000" />
+      <workItem from="1719937186845" duration="123000" />
+      <workItem from="1720023973447" duration="76000" />
+      <workItem from="1720112289021" duration="93000" />
+      <workItem from="1720198856466" duration="92000" />
+      <workItem from="1720600667475" duration="97000" />
+      <workItem from="1720715500851" duration="221000" />
+      <workItem from="1720805725593" duration="60000" />
+      <workItem from="1720889025900" duration="214000" />
+      <workItem from="1720974765393" duration="78000" />
+      <workItem from="1721051605328" duration="79000" />
+      <workItem from="1721148392783" duration="85000" />
+      <workItem from="1721234638557" duration="585000" />
+      <workItem from="1721323208924" duration="135000" />
+      <workItem from="1721407521501" duration="88000" />
     </task>
     <task id="LOCAL-00082" summary="MoveAllZeroesToEndOfArray">
       <option name="closed" value="true" />
@@ -623,29 +496,149 @@
       <option name="project" value="LOCAL" />
       <updated>1719681044842</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="MergeKSortedLinkedLists">
+      <option name="closed" value="true" />
+      <created>1719758735049</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1719758735049</updated>
+    </task>
+    <task id="LOCAL-00115" summary="MergeKSortedLinkedLists">
+      <option name="closed" value="true" />
+      <created>1719758874551</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1719758874551</updated>
+    </task>
+    <task id="LOCAL-00116" summary="ValidateAnIpAddress">
+      <option name="closed" value="true" />
+      <created>1719840541208</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1719840541208</updated>
+    </task>
+    <task id="LOCAL-00117" summary="GivenALinkedListOf0s1sAnd2sSortItiii">
+      <option name="closed" value="true" />
+      <created>1719937288439</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1719937288439</updated>
+    </task>
+    <task id="LOCAL-00118" summary="MultiplyTwoStrings">
+      <option name="closed" value="true" />
+      <created>1720024043486</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1720024043486</updated>
+    </task>
+    <task id="LOCAL-00119" summary="BinarySearch">
+      <option name="closed" value="true" />
+      <created>1720112368225</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1720112368225</updated>
+    </task>
+    <task id="LOCAL-00120" summary="SearchAnElementInAnArray">
+      <option name="closed" value="true" />
+      <created>1720198939885</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1720198939885</updated>
+    </task>
+    <task id="LOCAL-00121" summary="SubarrayWithGivenSumy">
+      <option name="closed" value="true" />
+      <created>1720600748429</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1720600748429</updated>
+    </task>
+    <task id="LOCAL-00122" summary="LargestElementInArray">
+      <option name="closed" value="true" />
+      <created>1720715711653</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715711653</updated>
+    </task>
+    <task id="LOCAL-00123" summary="FractionalKnapsack">
+      <option name="closed" value="true" />
+      <created>1720805776693</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1720805776693</updated>
+    </task>
+    <task id="LOCAL-00124" summary="SpirallyTraversingAMatrix">
+      <option name="closed" value="true" />
+      <created>1720889214602</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1720889214602</updated>
+    </task>
+    <task id="LOCAL-00125" summary="PerfectSumProblem">
+      <option name="closed" value="true" />
+      <created>1720974825375</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1720974825375</updated>
+    </task>
+    <task id="LOCAL-00126" summary="QuickSort">
+      <option name="closed" value="true" />
+      <created>1721051679184</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1721051679185</updated>
+    </task>
+    <task id="LOCAL-00127" summary="SubsetSumProblem">
+      <option name="closed" value="true" />
+      <created>1721148457124</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1721148457130</updated>
+    </task>
+    <task id="LOCAL-00128" summary="GetMinimumElementFromStack">
+      <option name="closed" value="true" />
+      <created>1721235216284</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1721235216284</updated>
+    </task>
+    <task id="LOCAL-00129" summary="EditDistance">
+      <option name="closed" value="true" />
+      <created>1721323327659</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1721323327659</updated>
+    </task>
+    <task id="LOCAL-00130" summary="SSubsetSumProblem">
+      <option name="closed" value="true" />
+      <created>1721407598990</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1721407598990</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PangramChecking" />
-    <MESSAGE value="MaxCircularSubarraySum" />
-    <MESSAGE value="MedianOf2SortedArraysOfDifferentSizes" />
-    <MESSAGE value="StockSpanProblem" />
-    <MESSAGE value="MinimumSwaps" />
-    <MESSAGE value="UnequalArrays" />
-    <MESSAGE value="CountTheReversals" />
-    <MESSAGE value="CountPossibleTriangles" />
-    <MESSAGE value="FrequencyOfArrayElements" />
-    <MESSAGE value="rowWithMax" />
-    <MESSAGE value="Rotation" />
-    <MESSAGE value="ArithmeticNumber" />
-    <MESSAGE value="IntersectionOfTwoArrays" />
-    <MESSAGE value="TaxiBooking" />
-    <MESSAGE value="LongestSubArrayWithSum" />
-    <MESSAGE value="LongestDistinctCharactersInString" />
     <MESSAGE value="ImplementTwoStacksInAnArray" />
     <MESSAGE value="FindAllPairsWhoseSumIsX" />
     <MESSAGE value="AddTwoNumbersRepresentedByLinkedLists" />
@@ -655,6 +648,22 @@
     <MESSAGE value="IntersectionPointInYShappedLinkedLists" />
     <MESSAGE value="UnionOfTtwoSortedArrays" />
     <MESSAGE value="SortedInsertForCircularLinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortedInsertForCircularLinkedList" />
+    <MESSAGE value="MergeKSortedLinkedLists" />
+    <MESSAGE value="ValidateAnIpAddress" />
+    <MESSAGE value="GivenALinkedListOf0s1sAnd2sSortItiii" />
+    <MESSAGE value="MultiplyTwoStrings" />
+    <MESSAGE value="BinarySearch" />
+    <MESSAGE value="SearchAnElementInAnArray" />
+    <MESSAGE value="SubarrayWithGivenSumy" />
+    <MESSAGE value="LargestElementInArray" />
+    <MESSAGE value="FractionalKnapsack" />
+    <MESSAGE value="SpirallyTraversingAMatrix" />
+    <MESSAGE value="PerfectSumProblem" />
+    <MESSAGE value="QuickSort" />
+    <MESSAGE value="SubsetSumProblem" />
+    <MESSAGE value="GetMinimumElementFromStack" />
+    <MESSAGE value="EditDistance" />
+    <MESSAGE value="SSubsetSumProblem" />
+    <option name="LAST_COMMIT_MESSAGE" value="SSubsetSumProblem" />
   </component>
 </project>
