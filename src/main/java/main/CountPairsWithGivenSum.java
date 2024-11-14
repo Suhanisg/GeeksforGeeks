@@ -1,0 +1,41 @@
+package main;
+
+public class CountPairsWithGivenSum {
+
+    class Solution {
+        public static ArrayList<ArrayList<Integer>> getPairs(int[] arr) {
+            // code here
+            Arrays.sort(arr);
+            int left =0;
+            int right = arr.length-1;
+            int target =0 ;
+            ArrayList<ArrayList<Integer>> alist = new ArrayList();
+            while(left<right){
+                int sum = arr[left] + arr[right];
+                if(sum == target){
+                    ArrayList<Integer> pair = new ArrayList();
+                    pair.add(arr[left]);
+                    pair.add(arr[right]);
+                    alist.add(pair);
+
+                    left++;
+                    right--;
+                    while(left<right && arr[left]==arr[left-1]){
+                        left++;
+                    }
+                    while(left<right && arr[right]==arr[right+1]){
+                        right--;
+                    }
+                }else if(sum<target){
+                    left++;
+                }else{
+                    right--;
+                }
+            }
+
+
+            return alist;
+
+        }
+    }
+}
